@@ -3,10 +3,10 @@
 
  For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Enter your project info here
+- 🔭 **I’m currently working on:** AI and cyber security
 - 🌱 **I’m currently learning:** Machine Learning and Red Teaming
 - 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** Enter your email here
+- 📫 **How to reach me:** Just Comment is repo
 - 😄 **Pronouns:** Panther Sir
 - ⚡ **Fun fact:** I Love Security and Bugs love me
 
