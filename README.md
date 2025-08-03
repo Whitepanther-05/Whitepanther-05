@@ -10,6 +10,13 @@
 - 😄 **Pronouns:** Panther Sir
 - ⚡ **Fun fact:** I Love Security and Bugs love me
 
+  
+<br>
+
+<img src="https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif" width="300">
+
+</br>
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/panther_ethics) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@White_Panther) 
 
